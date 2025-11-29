@@ -1,5 +1,5 @@
 # mltd-linebot-border
-使用PHP開發的LineBot,用於查MLTD日版榜線
+使用PHP開發的MLTD日版榜線機器人(Line)  
 
 ## 此專案已停止維護，請參考使用python實作的新版本[https://github.com/peter910820/MinaseIori](https://github.com/peter910820/MinaseIori)
 
